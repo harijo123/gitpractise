@@ -6,8 +6,12 @@ public class B  {
 		System.out.println("hari");
 	}
 	private void c2() {
-		System.out.println("music king");
+		System.out.println("priya");
 	}
+
+private void c3() {
+	System.out.println("agni");
+}
 	public static void main(String[] args) {
 		B b = new B();
 		b.c1();
